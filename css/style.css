@@ -1,0 +1,150 @@
+.logo {
+    margin-left: 180px;
+    width: 200;
+    height: 80px;
+}
+
+.fone {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(10, 51, 10);
+    margin-left: 100px;
+    line-height: 100px
+}
+
+.fone2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(15, 18, 175);
+    text-align: left;
+    margin-left: 120px;
+
+}
+
+.textBanner {
+    font-size: 20px;
+    color: forestgreen;
+    margin-left: 122px;
+    margin-top: 55px;
+}
+
+#topo {
+    background-color: #e5ebeb;
+    margin-left: 95px;
+    height: 200px;
+    padding-top: 50px;
+}
+
+.padding-0 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.img {
+    width: 380px;
+    height: 200px;
+
+}
+
+.conteudoTopo {
+    background-color: green;
+    border: indigo 1px;
+}
+
+.texto {
+    text-align: justify;
+    font-size: 14px;
+    margin-right: 160px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.legibilidade {
+    text-align: justify;
+    font-size: 16px;
+    margin-left: 200px;
+    color: forestgreen;
+}
+
+.sigiloso {
+    font-weight: bold;
+    text-align: justify;
+    margin-left: 170;
+    font-size: 16px;
+    color: forestgreen;
+}
+
+.legibilidade2 {
+    text-align: right;
+    font-size: 12px;
+    margin-left: 200px;
+
+}
+
+.navBar {
+    margin-left: 80px;
+    width: 935px;
+    height: 80px;
+}
+
+.btn {
+    margin-left: 120px;
+    width: 260px !important;
+    height: 80px;
+    font-size: 20px !important;
+    color: cornsilk;
+    text-align: center;
+    background-color: forestgreen;
+
+}
+
+.rodape {
+    background-color: #e5ebeb;
+    height: 100px;
+    margin-left: 80px;
+    margin-bottom: 22;
+    width: 935px;
+}
+
+tr {
+    font-size: 10px;
+    color: rgb(14, 13, 13);
+}
+
+.td1 {
+    color: rgb(17, 17, 16);
+    height: 10px;
+    margin-left: 180px;
+    padding-top: 30px;
+    padding-left: 30px;
+
+}
+
+.td2 {
+    color: rgb(6, 7, 6);
+    height: 2px;
+    margin-left: 180px;
+    padding-left: 30px;
+
+}
+
+#linhaVertical {
+    padding-left: 2px;
+    margin-left: 220px;
+    margin-top: 20px;
+    color: dimgray;
+    height: 50px;
+    border-left: 2px solid;
+}
+
+.logo2 {
+    margin-left: 180px;
+    width: 100;
+    height: 100px;
+}
+
+.logo3 {
+    margin-left: -82px;
+    width: 100;
+    height: 100px;
+}
